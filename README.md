@@ -1,4 +1,4 @@
-### Full Stack Development Resources
+# Full Stack Development Resources
 
 ## Overview
 This repository serves as a comprehensive guide to **Full Stack Development**, covering the key concepts, technologies, and use cases. Full stack development involves building both the front-end (client-side) and back-end (server-side) components of web applications.
