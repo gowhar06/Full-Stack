@@ -1,6 +1,13 @@
 # Full Stack Development Resources
 ![image](https://github.com/gowhar06/Full-Stack/blob/3b20b06409f8f2b7a56ec90e18a92570f1b666df/assets/Credit-Card%20fraud%20detection%20(3).png)
 
+If you like this project, feel free to **star**, **fork**, or check out the **contributors**:
+
+[![Stars](https://img.shields.io/github/stars/gowhar06/Full-Stack?style=social)](https://github.com/gowhar06/Full-Stack/stargazers)
+&nbsp;&nbsp;&nbsp;
+[![Forks](https://img.shields.io/github/forks/gowhar06/Full-Stack?style=social)](https://github.com/gowhar06/Full-Stack/network/members)
+&nbsp;&nbsp;&nbsp;
+[![Contributors](https://img.shields.io/github/contributors/gowhar06/Full-Stack?style=flat-square)](https://github.com/gowhar06/Full-Stack/graphs/contributors)
 
 
 ## Overview
@@ -66,4 +73,5 @@ Full-stack development spans a wide range of technologies. Below are the most co
 ## Conclusion
 Full stack development is a valuable skill set in today’s tech-driven world. This repository provides a detailed overview of the technologies and tools that power full-stack applications.
 
-Feel free to explore the resources and start your full-stack journey!   
+Feel free to explore the resources and start your full-stack journey!  
+
