@@ -1,6 +1,10 @@
 # Full Stack Development Resources
+![image](https://github.com/gowhar06/Full-Stack/blob/3b20b06409f8f2b7a56ec90e18a92570f1b666df/assets/Credit-Card%20fraud%20detection%20(3).png)
+
+
 
 ## Overview
+
 This repository serves as a comprehensive guide to **Full Stack Development**, covering the key concepts, technologies, and use cases. Full stack development involves building both the front-end (client-side) and back-end (server-side) components of web applications.
 
 ## What is Full Stack Development?
